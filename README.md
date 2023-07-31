@@ -25,29 +25,38 @@ To install express
 
 To host the webpage locally at port
 
-## [SnapShots in Laptop View](https://aartirathi17.herokuapp.com/)
+## [SnapShots in Laptop View](https://ethicaladi.github.io/adityakumar-portfolio/)
 ## 1
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/l1.png)
+![web](https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/l1.png)
 ## 2
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/l2.png)
+![web](https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/l2.png)
 ## 3
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/l3.png)
+![web](https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/l3.png)
 ## 4
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/l4.png)
+![web](https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/l4.png)
 ## 5
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/l5.png)
+![web](https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/l5.png)
+## 6
+![web](https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/l6.png)
 
-## [SnapShots in Mobile View](https://aartirathi17.herokuapp.com/)
-## 1
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/m1.jpeg)
-## 2
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/m2.jpeg)
-## 3
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/m3.jpeg)
-## 4
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/m4.jpeg)
-## 5
-![web](https://github.com/shinchancode/Portfolio/blob/main/Sample/m5.jpeg)
+## [SnapShots in Mobile View](https://ethicaladi.github.io/adityakumar-portfolio/)
+
+<div align="center">
+<img src="https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/m1.jpg" width="250px" height="400"/>
+
+<img src="https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/m2.jpg" width="250px" height="400"/>
+
+<img src="https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/m3.jpg" width="250px" height="400"/>
+</div>
+<br>
+
+<div align="center">
+<img src="https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/m4.jpg" width="250px" height="400"/>
+  
+<img src="https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/m5.jpg" width="250px" height="400"/>
+
+<img src="https://github.com/ethicalADI/adityakumar-portfolio/blob/main/Git-Images/m6.jpg" width="250px" height="400"/>
+</div>  
 
 ### Connect with me:
 
